@@ -13,6 +13,6 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis) [![Gmail](https://img.shields.io/badge/-Gmail-E1BCDD?style=flat-square&logo=gmail&logoColor=black)](mailto:luna.ex266@gmail.com) [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/@_fluffyeri) 
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ericasousaa) [![Gmail](https://img.shields.io/badge/-Gmail-E1BCDD?style=flat-square&logo=gmail&logoColor=black)](mailto:luna.ex266@gmail.com) [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/@_fluffyeri) 
 
   </div>
