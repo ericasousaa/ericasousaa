@@ -5,14 +5,14 @@
 
 
 <div align="left">
-<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/>    </div>
+<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/>    
 
   <div align="right
     ">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericasousaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&langs_count=7&theme=tokyonight"/>
   
-</div>
+
 
   </div>
 
@@ -21,12 +21,3 @@
 <div align="right">
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ericasousaa) [![Gmail](https://img.shields.io/badge/-Gmail-E1BCDD?style=flat-square&logo=gmail&logoColor=black)](mailto:luna.ex266@gmail.com) 
-
-  </div>
-
-  <div align="right
-    ">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ericasousaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-</div>
