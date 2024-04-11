@@ -5,8 +5,7 @@
 
 
 <div align="left">
-<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&langs_count=7&theme=tokyonight"/>
   
 
 
