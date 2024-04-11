@@ -5,7 +5,7 @@
 
 
 <div align="left">                                                 
-<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/>            <div align="center, left"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/>            <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=660033&bg_color=000000&cache_seconds=2300" alt="ilustração do status do github">
   
 
 
