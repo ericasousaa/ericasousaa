@@ -4,8 +4,8 @@
 
 
 
-<div align="left">                                                   <div align="center">
-<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/>            <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="left">                                                 
+<img height="490" src="https://i.imgur.com/yDNdkdJ.png"/>            <div align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&langs_count=7&theme=tokyonight"/>
   
 
 
