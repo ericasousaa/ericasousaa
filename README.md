@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<img height="50" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<img height="50" src="https://i.imgur.com/yDNdkdJ.png"/>
 
   </div>
 
