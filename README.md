@@ -4,8 +4,8 @@
 
 
 
-<div align="center">
-<img height="700" src="https://i.imgur.com/yDNdkdJ.png"/>
+<div align="left">
+<img height="500" src="https://i.imgur.com/yDNdkdJ.png"/>
 
   </div>
 
