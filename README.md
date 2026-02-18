@@ -2,17 +2,9 @@
 
 ```JavaScript
 
-⁺⊹ 𝑎𝑏𝑜𝑢𝑡 𝑚𝑒 !
-
-                       𐙚 ▸ 𝑒𝑟𝑖𝑐𝑎 (𝑒𝑟𝑖) ꒰ 𝑒𝑛𝑓𝑝
-                       𐙚 ▸ 𝑠ℎ𝑒/ℎ𝑒𝑟 ꒰ 𝑏𝑟𝑎𝑧𝑖𝑙𝑖𝑎𝑛 ꒰ (𝑝𝑡/𝑏𝑟 + 𝑒𝑛𝑔𝑙𝑖𝑠ℎ)
-                       𐙚 ▸ 𝑚𝑎𝑐𝘩𝑖𝑛𝑒 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑖𝑛𝑡𝑒𝑟𝑛 
-                       𐙚   ┗ ▸ 𝑓𝑜𝑐𝑢𝑠 𝑜𝑛 𝑑𝑎𝑡𝑎 𝑠𝑐𝑖𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝑚𝑎𝑐𝘩𝑖𝑛𝑒 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔
-                       𐙚 ▸ 𝑠𝑡𝑢𝑑𝑦𝑖𝑛𝑔
-                           ┗ ꒰ 𝑠𝑡𝑎𝑡𝑖𝑠𝑡𝑖𝑐𝑠
-                             ꒰ 𝑑𝑎𝑡𝑎 𝑎𝑛𝑎𝑙𝑦𝑡𝑖𝑐𝑠
-                             ꒰ 𝑝𝑜𝑤𝑒𝑟 𝑏𝑖
-                             ꒰ 𝑒𝑛𝑔𝑙𝑖𝑠ℎ
+⁺⊹ about me !
+ ▸ Graduated in Systems Analysis and Development. Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence.
+ ▸ Erica (eri) ꒰ isfp - 8w9 
 
 ```
           
