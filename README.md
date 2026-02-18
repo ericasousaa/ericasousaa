@@ -1,6 +1,9 @@
 <img align="left" alt="gif-notfound" height="470" src="https://i.imgur.com/6DkxNUU.png">
 
-<div align="center">
+<table align="center">
+<tr>
+<td>
+
 
 ⁺⊹ about me !
 
@@ -8,6 +11,10 @@
 ▸ Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence.
 ▸ Erica (eri) | ISFP • 8w9
 
-</div>
+
+</td>
+</tr>
+</table>
 
 <br clear="both">
+
