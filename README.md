@@ -8,7 +8,6 @@
 ▸ Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence.
 ▸ Erica (eri) | ISFP • 8w9
 
-
 </div>
 
 <br clear="both">
