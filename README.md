@@ -10,6 +10,4 @@
           
                         
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericasousaa&layout=compact&show_icons=true&title_color=ed7599&text_color=ed7599&icon_color=660033&bg_color=f4e8e8&cache_seconds=2300" alt="ilustração do status do github" width="270">
-</div>
 
