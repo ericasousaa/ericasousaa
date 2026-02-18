@@ -1,9 +1,11 @@
-<img align="left" alt="gif-notfound" height="470" src="https://i.imgur.com/6DkxNUU.png">
-
 <table align="center">
 <tr>
-<td>
 
+<td>
+<img alt="gif-notfound" height="470" src="https://i.imgur.com/6DkxNUU.png">
+</td>
+
+<td>
 
 ⁺⊹ about me !
 
@@ -13,8 +15,6 @@
 
 
 </td>
+
 </tr>
 </table>
-
-<br clear="both">
-
