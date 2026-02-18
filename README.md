@@ -9,10 +9,10 @@
 
 <pre>
 ౨ৎ about me !
-
+  
+▸ Erica (eri) ꒰ ISFP ﹕8w9
 ▸ Graduated in Systems Analysis and Development.
 ▸ Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence.
-▸ Erica (eri) ꒰ ISFP ﹕8w9
 </pre>
 
 </td>
