@@ -8,11 +8,11 @@
 <td align="center">
 
 <pre>
-⁺⊹ about me !
+౨ৎ about me !
 
 ▸ Graduated in Systems Analysis and Development.
 ▸ Currently pursuing a postgraduate degree in Data Science and Artificial Intelligence.
-▸ Erica (eri) | ISFP • 8w9
+▸ Erica (eri) ꒰ ISFP ﹕8w9
 </pre>
 
 </td>
